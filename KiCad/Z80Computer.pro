@@ -1,4 +1,4 @@
-update=3/20/2017 2:28:18 PM
+update=6/1/2017 11:21:36 AM
 version=1
 last_client=kicad
 [pcbnew]
@@ -58,7 +58,7 @@ LibName26=opto
 LibName27=atmel
 LibName28=contrib
 LibName29=valves
-LibName30=library/z80IC
-LibName31=library/alliancememory
-LibName32=library/7400series
-LibName33=library/custom
+LibName30=library/alliancememory
+LibName31=library/7400series
+LibName32=library/custom
+LibName33=library/zilog
